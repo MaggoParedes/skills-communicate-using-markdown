@@ -5,7 +5,7 @@
 
 
 
-
+var myVar = "Hello, world!";
 
 
 
